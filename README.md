@@ -1,0 +1,2 @@
+
+docker pull ronigasparetto/docker_desafio1
